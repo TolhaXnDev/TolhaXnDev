@@ -1,16 +1,136 @@
-## Hi there 👋
-
 <!--
-**TolhaXnDev/TolhaXnDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  GitHub Profile README for TolhaXnDev
+  Create a public repository named exactly: TolhaXnDev
+  Then upload this file as README.md.
 -->
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0:2563EB,50:6366F1,100:8B5CF6&text=TolhaXnDev&fontColor=FFFFFF&fontSize=54&fontAlignY=42&desc=Vibe%20Coder%20%C3%97%20Developer%20%3C%2F%3E&descAlignY=67&descSize=18" alt="TolhaXnDev — Vibe Coder × Developer" width="100%" />
+
+  <br/>
+
+  <a href="https://github.com/TolhaXnDev">
+    <img src="https://img.shields.io/badge/GitHub-TolhaXnDev-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <img src="https://img.shields.io/badge/Role-Vibe%20Coder%20%C3%97%20Developer-4F46E5?style=for-the-badge" alt="Vibe Coder × Developer" />
+  <img src="https://img.shields.io/badge/Building-Digital%20Experiences-0891B2?style=for-the-badge" alt="Building digital experiences" />
+
+  <h3>Turning ideas into digital experiences.</h3>
+
+  <p>
+    I enjoy experimenting with ideas, building useful digital projects, and using AI-assisted workflows to turn concepts into reality.
+  </p>
+
+  <p>
+    <a href="#-about-me">About</a> ·
+    <a href="#-what-i-build">What I Build</a> ·
+    <a href="#-tools--technologies">Tools</a> ·
+    <a href="#-featured-projects">Projects</a> ·
+    <a href="#-github-dashboard">GitHub Stats</a> ·
+    <a href="#-connect">Connect</a>
+  </p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- ⚡ **Identity:** Vibe Coder × Developer `</>`
+- 🧠 **Approach:** Creative problem-solving, experimentation, and AI-assisted development.
+- 🛠️ **Focus:** Building websites, web experiences, bots, and practical digital tools.
+- 🚀 **Mindset:** Learn by building, improve through iteration, and ship useful work.
+- 📌 **Currently:** Turning ideas into projects and documenting what I build.
+
+> *Think clearly. Build boldly. Keep improving.*
+
+## 🧩 What I Build
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <strong>🌐 Web Experiences</strong><br/>
+        <sub>Responsive websites and interfaces</sub>
+      </td>
+      <td align="center" width="33%">
+        <strong>🤖 Bots & Automation</strong><br/>
+        <sub>Useful workflows and bot projects</sub>
+      </td>
+      <td align="center" width="33%">
+        <strong>✨ AI-Assisted Builds</strong><br/>
+        <sub>Rapid prototyping and iteration</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🧰 Tools & Technologies
+
+<!-- Keep only the technologies you actively use; add more as your skills grow. -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=light" alt="HTML, CSS, JavaScript, Git, GitHub and VS Code" />
+</div>
+
+<div align="center">
+  <sub>My toolkit will evolve as I build and learn more.</sub>
+</div>
+
+## 🚀 Featured Projects
+
+<!-- Replace these examples with your real repository names, descriptions and links. -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Project One</h3>
+      <p>Write a one- or two-line summary of what this project does and who it helps.</p>
+      <p><strong>Built with:</strong> HTML · CSS · JavaScript</p>
+      <a href="https://github.com/TolhaXnDev?tab=repositories">View repositories →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Project Two</h3>
+      <p>Describe a bot, automation tool, or another project you are proud of.</p>
+      <p><strong>Built with:</strong> Add your actual stack</p>
+      <a href="https://github.com/TolhaXnDev?tab=repositories">View repositories →</a>
+    </td>
+  </tr>
+</table>
+
+> **Make this section yours:** Replace “Project One” and “Project Two” with real projects. Remove any technology that you did not use. Pin your best repositories on your GitHub profile.
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TolhaXnDev&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&include_all_commits=true" alt="GitHub statistics for TolhaXnDev" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolhaXnDev&layout=compact&hide_border=true&theme=transparent" alt="Most used languages for TolhaXnDev" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TolhaXnDev&hide_border=true&theme=transparent" alt="GitHub contribution streak for TolhaXnDev" width="70%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TolhaXnDev&bg_color=ffffff00&color=64748b&line=6366f1&point=2563eb&area=true&hide_border=true" alt="GitHub activity graph for TolhaXnDev" width="100%" />
+</div>
+
+<sub>Stats cards are generated by third-party services and may take time to load. Language cards estimate language usage from public repositories; they do not measure skill level.</sub>
+
+## 🎯 My Build Philosophy
+
+- **Start simple.** Turn a clear idea into a working first version.
+- **Make it useful.** Prioritize real value and a smooth user experience.
+- **Keep learning.** Improve the code, design, and documentation with each iteration.
+- **Share the work.** Give projects a clear README, screenshots, and demo links where possible.
+
+## 🤝 Connect
+
+<div align="center">
+  <a href="https://github.com/TolhaXnDev">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <sub>Thanks for visiting my corner of GitHub. More ideas are becoming projects. ✨</sub>
+</div>
