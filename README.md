@@ -1,158 +1,168 @@
-from pathlib import Path
+<!-- ============================================================
+  TolhaXnDev — GitHub Profile README
+  Search for "ADD_" to find every placeholder you must replace.
+  ============================================================ -->
 
-readme = '''<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:151A3D,100:273C75&height=190&section=header&text=TolhaXnDev&fontSize=56&fontColor=FFFFFF&fontAlignY=42&desc=Vibe%20Coder%20%C3%97%20Developer%20%3C%2F%3E&descSize=18&descAlignY=68&animation=fadeIn" width="100%" alt="TolhaXnDev developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,55:60A5FA,100:A78BFA&height=220&section=header&text=TolhaXnDev&fontSize=54&fontColor=F3F4F6&fontAlignY=38&desc=Vibe%20Coder%20%C3%97%20Developer%20%3C%2F%3E&descSize=20&descAlignY=60&descColor=F3F4F6" alt="TolhaXnDev — Vibe Coder × Developer banner" width="100%" />
 
-### Building ideas into digital experiences.
+<!-- Fallback: this text stays readable even if the banner image fails -->
+<h3>Vibe Coder × Developer &lt;/&gt;</h3>
 
-**AI-Assisted Development · Web Experiences · Telegram Bots · UI Concepts**
+<sub>AI-Assisted Development · Web Experiences · Telegram Bots · UI Engineering</sub>
 
-[![GitHub](https://img.shields.io/badge/GitHub-TolhaXnDev-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TolhaXnDev)
+<br/><br/>
+
+<a href="https://github.com/TolhaXnDev"><img src="https://img.shields.io/badge/GitHub-TolhaXnDev-111827?style=for-the-badge&logo=github&logoColor=F3F4F6" alt="GitHub profile of TolhaXnDev" /></a>
+<a href="ADD_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=googlechrome&logoColor=60A5FA" alt="Personal portfolio website" /></a>
+<a href="ADD_TELEGRAM_URL"><img src="https://img.shields.io/badge/Telegram-Message-111827?style=for-the-badge&logo=telegram&logoColor=60A5FA" alt="Contact on Telegram" /></a>
+
+<a href="ADD_FACEBOOK_URL"><img src="https://img.shields.io/badge/Facebook-Follow-111827?style=for-the-badge&logo=facebook&logoColor=60A5FA" alt="Facebook profile or page" /></a>
+<a href="ADD_TIKTOK_URL"><img src="https://img.shields.io/badge/TikTok-Follow-111827?style=for-the-badge&logo=tiktok&logoColor=A78BFA" alt="TikTok account" /></a>
+<a href="ADD_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-Watch-111827?style=for-the-badge&logo=youtube&logoColor=A78BFA" alt="YouTube channel" /></a>
 
 </div>
+
+<!-- Delete any badge line above (e.g. YouTube) if you don't have that account. -->
 
 ---
 
-## About
+## 👋 About Me
 
-I'm **TolhaXnDev** — a Vibe Coder × Developer interested in turning ideas into useful, polished digital experiences.
+I'm a developer who builds with **AI-assisted workflows** — turning ideas into working websites, clean interfaces, Telegram bots, and interactive demos.
+I care about clear structure, tidy design, and understanding what I ship, not just generating it.
+I'm still learning and growing, and I enjoy turning curiosity into real, working projects.
 
-- Building and experimenting with modern websites and interfaces.
-- Exploring AI-assisted workflows to prototype, improve, and ship projects.
-- Creating Telegram bot concepts, interactive demos, and web experiences.
-- Focused on clean presentation, usability, and continuous learning.
+---
 
-> I use AI as a tool in my workflow, while learning, reviewing, and refining the work I build.
+## 🛠️ What I Build
 
-## What I Build
+| | |
+|---|---|
+| **🌐 Websites** | Responsive, clean web pages and small web projects |
+| **🤖 Telegram Bots** | Bots that automate simple tasks and conversations |
+| **🎨 UI / UX Concepts** | Interface ideas with a focus on layout, spacing, and readability |
+| **💬 Interactive Demos** | Chat-style and interactive experiences to explore ideas |
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🌐 Web Experiences
-Responsive websites, landing pages, and interactive front-end experiences.
+## ⚙️ Technology Stack
 
-</td>
-<td width="50%" valign="top">
+**Frontend**
 
-### 🤖 Telegram Bots
-Bot concepts, automation experiments, and useful Telegram-based tools.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🎨 UI & Web Design
-Modern layouts, visual concepts, and user-focused interface experiments.
+![HTML5](https://img.shields.io/badge/HTML5-0B1020?style=flat-square&logo=html5&logoColor=60A5FA)
 
-</td>
-<td width="50%" valign="top">
 
-### ⚡ Interactive Demos
-Chat demos, animations, prototypes, and small experiments that bring ideas to life.
 
-</td>
-</tr>
-</table>
 
-## Tech Stack
+![CSS3](https://img.shields.io/badge/CSS3-0B1020?style=flat-square&logo=css3&logoColor=60A5FA)
 
-> Keep only the technologies you genuinely use or are actively learning.
 
-<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-</div>
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1020?style=flat-square&logo=javascript&logoColor=60A5FA)
 
-## Featured Projects
 
-<!-- Replace these general categories with your real project names and live links. -->
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### 🌐 Website Projects
-Responsive websites and landing pages with a focus on visual quality and usability.
+**Development Tools**
 
-**[Explore repositories →](https://github.com/TolhaXnDev?tab=repositories)**
 
-</td>
-<td width="50%" valign="top">
 
-### 🤖 Telegram Bots
-Telegram bot projects, experiments, and automation ideas.
+![Git](https://img.shields.io/badge/Git-0B1020?style=flat-square&logo=git&logoColor=A78BFA)
 
-**[Explore repositories →](https://github.com/TolhaXnDev?tab=repositories)**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🎨 UI / Design Concepts
-Interface explorations, polished layouts, and front-end prototypes.
 
-**[Explore repositories →](https://github.com/TolhaXnDev?tab=repositories)**
+![GitHub](https://img.shields.io/badge/GitHub-0B1020?style=flat-square&logo=github&logoColor=A78BFA)
 
-</td>
-<td width="50%" valign="top">
 
-### 💬 Interactive Demos
-Chat interfaces, animations, and experimental web features.
 
-**[Explore repositories →](https://github.com/TolhaXnDev?tab=repositories)**
 
-</td>
-</tr>
-</table>
+![VS Code](https://img.shields.io/badge/VS_Code-0B1020?style=flat-square&logo=visualstudiocode&logoColor=A78BFA)
 
-## GitHub Overview
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=TolhaXnDev&show_icons=true&hide_border=true&bg_color=0B1020&title_color=60A5FA&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" alt="GitHub profile statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolhaXnDev&layout=compact&hide_border=true&bg_color=0B1020&title_color=60A5FA&text_color=E5E7EB" alt="Most used languages"/>
+<!--
+  OPTIONAL — keep ONLY what you genuinely use. Move a line out of this comment to show it.
 
-<img src="https://streak-stats.demolab.com?user=TolhaXnDev&hide_border=true&background=0B1020&ring=60A5FA&fire=A78BFA&currStreakLabel=E5E7EB&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub contribution streak"/>
+  **Backend & Automation**
+  
 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-0B1020?style=flat-square&logo=nodedotjs&logoColor=60A5FA)
 
-## Connect
 
-<div align="center">
+  
 
-**Have an idea, project, or collaboration in mind?**
+![Python](https://img.shields.io/badge/Python-0B1020?style=flat-square&logo=python&logoColor=60A5FA)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TolhaXnDev)
 
-<!-- Add your real public links when ready:
-[![Website](https://img.shields.io/badge/Website-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_WEBSITE_URL)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](YOUR_FACEBOOK_URL)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-111827?style=for-the-badge&logo=tiktok&logoColor=white)](YOUR_TIKTOK_URL)
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](YOUR_TELEGRAM_URL)
+  
+
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-0B1020?style=flat-square&logo=telegram&logoColor=60A5FA)
+
+
+
+  **Design & Prototyping**
+  
+
+![Figma](https://img.shields.io/badge/Figma-0B1020?style=flat-square&logo=figma&logoColor=A78BFA)
+
+
 -->
 
+---
+
+## 🚀 Featured Projects
+
+> Replace each `ADD_...` value with a real project. Delete rows you don't need.
+
+| Category | Project | Description | Links |
+|---|---|---|---|
+| 🌐 Web Development | **ADD_PROJECT_NAME** | ADD_ONE_LINE_DESCRIPTION | [Repository](ADD_PROJECT_REPOSITORY_URL) · [Live Demo](ADD_LIVE_DEMO_URL) |
+| 🤖 Telegram Bots | **ADD_PROJECT_NAME** | ADD_ONE_LINE_DESCRIPTION | [Repository](ADD_PROJECT_REPOSITORY_URL) |
+| 🎨 UI / Web Design | **ADD_PROJECT_NAME** | ADD_ONE_LINE_DESCRIPTION | [Repository](ADD_PROJECT_REPOSITORY_URL) · [Live Demo](ADD_LIVE_DEMO_URL) |
+| 💬 Interactive Chat Demos | **ADD_PROJECT_NAME** | ADD_ONE_LINE_DESCRIPTION | [Repository](ADD_PROJECT_REPOSITORY_URL) · [Live Demo](ADD_LIVE_DEMO_URL) |
+| 🧪 AI-Assisted Experiments | **ADD_PROJECT_NAME** | ADD_ONE_LINE_DESCRIPTION | [Repository](ADD_PROJECT_REPOSITORY_URL) |
+
+---
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TolhaXnDev&show_icons=true&hide_border=false&bg_color=0B1020&border_color=1F2937&title_color=60A5FA&icon_color=A78BFA&text_color=F3F4F6" alt="TolhaXnDev GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TolhaXnDev&layout=compact&hide_border=false&bg_color=0B1020&border_color=1F2937&title_color=60A5FA&text_color=F3F4F6" alt="TolhaXnDev most used languages" height="165" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=TolhaXnDev&background=0B1020&border=1F2937&ring=60A5FA&fire=A78BFA&currStreakNum=F3F4F6&currStreakLabel=60A5FA&sideNums=F3F4F6&sideLabels=9CA3AF&dates=9CA3AF" alt="TolhaXnDev GitHub contribution streak" />
+
+<sub>Stats are generated by third-party services and may occasionally load slowly or be unavailable.</sub>
+
 </div>
 
 ---
 
+## 🎯 Current Focus
+
+- Learning to read, review, and understand AI-generated code
+- Improving UI polish: spacing, typography, and responsive layouts
+- Exploring ways to make Telegram bots more useful
+
+<!-- Edit these three bullets so they match what you are actually learning. -->
+
+---
+
+## 🤝 Connect / Collaboration
+
+Open to friendly collaboration, feedback, and project ideas. The quickest way to reach me is through the links at the top of this page.
+
+---
+
 <div align="center">
-
-*Learning continuously. Building thoughtfully. Shipping one idea at a time.*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:273C75,100:0B1020&height=70&section=footer" width="100%" alt="Footer banner"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A78BFA,50:60A5FA,100:0B1020&height=80&section=footer" alt="" width="100%" />
+<sub>© TolhaXnDev · Vibe Coder × Developer &lt;/&gt;</sub>
 </div>
-'''
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(f"Created: {path} ({path.stat().st_size} bytes)")
